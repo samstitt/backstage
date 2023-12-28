@@ -1,5 +1,13 @@
 # @backstage/core-plugin-api
 
+## 1.8.2-next.0
+
+### Patch Changes
+
+- 6878b1d: Removed unnecessary `i18next` dependency.
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 1.8.1
 
 ### Patch Changes

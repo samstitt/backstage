@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-backend-module-aws
 
+## 0.3.3-next.1
+
+### Patch Changes
+
+- 22e88d0: Added status and e-mail as labels to the AWS Account Resource
+- Updated dependencies
+  - @backstage/config@1.1.1
+  - @backstage/integration-aws-node@0.1.8
+
 ## 0.3.3-next.0
 
 ### Patch Changes
